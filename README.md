@@ -10,3 +10,7 @@ Daily log to track my progress on the 100 days of ML code challenge
 - Started with the [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)  course on Udacity
 - Learnt the basics of a Naive Bayes classifier on the `iris` dataset
 - Working on classifying the `Stanley Terrain` dataset and graph the decision surface
+
+### Day 2 (27-11-2021) : Naive Bayes mini_project & SVM
+- Completed the Naive Bayes mini project to classify email with acc ~ 95.24%
+- Started the lesson on Support Vector Machines SVM.
