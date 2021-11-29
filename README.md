@@ -20,3 +20,5 @@ Daily log to track my progress on the 100 days of ML code challenge
 - Completed Week 1 of Mathematics for [ML: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning), a course from Imperial College London on Coursera.
 - Started the lesson on Decision Trees
 
+### Day 4 (29-11-21) : Decision Tree, Entropy & Information gain
+- Completed the Decision Tree mini-project
