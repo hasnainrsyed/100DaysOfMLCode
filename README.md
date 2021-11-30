@@ -22,3 +22,9 @@ Daily log to track my progress on the 100 days of ML code challenge
 
 ### Day 4 (29-11-21) : Decision Tree, Entropy & Information gain
 - Completed the Decision Tree mini-project
+
+### Day 5 (30-11-21) : K-Nearest Neighbours, Datasets and Questions
+- Learnt about the K-Nearest Neighbours classifier and implemented the same
+- Completed the lesson on datasets and questions to gain key inferences
+- Completed the lesson `WEB 3.0` from Siraj Raval's [Decentralized Applications](https://www.youtube.com/watch?v=aPVmd7SyKfQ) playlist
+
