@@ -28,3 +28,7 @@ Daily log to track my progress on the 100 days of ML code challenge
 - Completed the lesson on datasets and questions to gain key inferences
 - Completed the lesson `WEB 3.0` from Siraj Raval's [Decentralized Applications](https://www.youtube.com/watch?v=aPVmd7SyKfQ) playlist
 
+### Day 6 (1-12-21) Linear Regression, K-Means
+- Completed the lessons on regression, kmeans clustering and implemented the mini-projects.
+- Complete the analysis of outliers in the enron dataseet and the Q&A on the analysis.
+- Completed the lesson on feature scaling (MinMaxScaler)
