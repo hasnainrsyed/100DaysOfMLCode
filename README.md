@@ -32,3 +32,10 @@ Daily log to track my progress on the 100 days of ML code challenge
 - Completed the lessons on regression, kmeans clustering and implemented the mini-projects.
 - Complete the analysis of outliers in the enron dataseet and the Q&A on the analysis.
 - Completed the lesson on feature scaling (MinMaxScaler)
+
+### Day 7 (2-12-21) Bag of words, stemming and TfIdf using NLTK
+- Stemming using NLTK(Natural Language Toolkit)
+- Completed the lesson on text learning
+- Completed implementing the string processing techniques in the dataset (17578 emails)
+
+
